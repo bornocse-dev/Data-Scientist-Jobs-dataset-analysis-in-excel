@@ -68,21 +68,5 @@ The `Dashboard` tab brings all five views together into column charts, with **Sl
 - **Geographic concentration:** California accounts for the most postings (154, ~24% of the dataset) but isn't the highest-paying — Washington DC ($139.3K, n=26) and New York ($136.3K, n=52) both out-pay it on average.
 - **By sector, Information Technology posts the most jobs** (178) at a moderate average salary ($118.8K), while Business Services posts fewer jobs (120) but pays higher on average ($129.9K).
 
-## 📁 Repository Structure
 
-```
-data-analyst-jobs-excel-analysis/
-├── data/
-│   └── Cleaned_DS_Jobs.csv
-├── excel/
-│   └── Cleaned_DS_Jobs.xlsx
-├── screenshots/
-│   └── dashboard.png
-└── README.md
-```
 
-## 🚀 How to Use
-
-1. Open `Cleaned_DS_Jobs.xlsx`
-2. Go to the `Dashboard` tab
-3. Use the Slicers at the top to filter by job role, state, or sector — all charts update together
