@@ -1,6 +1,6 @@
 # Data Analyst Jobs — Excel Data Cleaning, Pivot Tables & Dashboard
 
-An end-to-end Excel project analyzing 648 real-world Data Science job postings (scraped from Glassdoor) to uncover salary trends, in-demand skills, and hiring patterns by role, state, and sector.
+An end-to-end Excel project analyzing 660 real-world Data Science job postings (scraped from Glassdoor) to uncover salary trends, in-demand skills, and hiring patterns by role, state, and sector.
 
 ## 📊 Project Overview
 
