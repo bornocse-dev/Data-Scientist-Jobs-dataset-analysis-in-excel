@@ -9,7 +9,7 @@ This project takes a raw jobs dataset and turns it into a decision-ready dashboa
 ## 🗂️ Dataset
 
 - **Source:** [Data Scientist Jobs dataset, Kaggle](https://www.kaggle.com/) (Glassdoor job postings)
-- **Size:** 648 rows × 27 columns
+- **Size:** 660 rows × 27 columns
 - **Fields:** job title, salary range, company rating, size, industry, sector, revenue, location, and binary flags for skills mentioned in the posting (Python, Excel, AWS, Tableau, Spark, Hadoop, Big Data)
 
 ## 🛠️ Tools Used
